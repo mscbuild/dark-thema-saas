@@ -6,7 +6,7 @@ Free SaaS templates
 
 # Introduction
 
-**This project is a starter template for SaaS applications landing page using Tailwind CSS 4.**
+**This project is a starter template for SaaS applications landing page using Bootstrap Icons, GSAP, Tailwind CSS 4.**
 
 # Getting Started
 
