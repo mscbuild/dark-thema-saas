@@ -2,7 +2,7 @@
 
 Free SaaS templates
 
-<img width="1760" height="885" alt="mscbuild" src="https://github.com/user-attachments/assets/674054da-8249-455c-a9bb-6c3c9a943b91" />
+<img width="1760" height="885" alt="SaaS website" src="https://github.com/user-attachments/assets/674054da-8249-455c-a9bb-6c3c9a943b91" />
 
 # Introduction
 
